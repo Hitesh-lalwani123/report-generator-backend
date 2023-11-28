@@ -1,0 +1,10 @@
+1. Front page with logo and all
+2. Second page with declaration
+3. Abstract
+4. Acknoledgement
+5. Table of contents
+6. List of figures
+7. All major headings 
+8. Result/conclusion
+9. Future scope
+10.References
